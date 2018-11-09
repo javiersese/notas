@@ -143,7 +143,10 @@ For css I used the sample given by w3chools.com, customicing it a little...
 ### IMPORTANT
 In the HTML file the script tag to link *notas.js* has to be after the body. If you put this line before the **body html** the program does not work right, because the browser tries to execute the javascript code before the **div tags** have been defined.
 	
-
+### NEXT STEPS
+* I will try to read the JSON file from the disk without using jQuery.
+* The number of qualifications will be variable: some students will have 3 qualifications, other 4, etc...
+* I will calculate the max and min qualification for each subject
 
 
 
