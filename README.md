@@ -1,0 +1,2 @@
+# notas
+Javascript exercice
