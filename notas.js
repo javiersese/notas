@@ -8,7 +8,7 @@ const notasJSON = '['+
 					'{"nombre" : "Ramon", 	 "nota1" : 6.9, "nota2" : 3.8, "nota3" : 4.1},'+
 					'{"nombre" : "Oriol", 	 "nota1" : 9.1, "nota2" : 6.4, "nota3" : 8.3},'+
 					'{"nombre" : "Andrea", 	 "nota1" : 2.8, "nota2" : 6.4, "nota3" : 6.0}'+
-					']';
+					']'; 
 
 let notas;
 let	mediaCol = [0,0,0,0]; 
