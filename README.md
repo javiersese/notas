@@ -1,5 +1,5 @@
 # Notas
-A javascript exercise
+A javascript exercise for Saru and Kasia
 ***
 
 We have a JSON file with the subject qualifications for several students.
